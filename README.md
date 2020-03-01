@@ -9,3 +9,5 @@
 
 개발 환경 : Atmel Studio 7, Android Studio
 개발 보드 : Atmega128 ...
+
+엥엥
